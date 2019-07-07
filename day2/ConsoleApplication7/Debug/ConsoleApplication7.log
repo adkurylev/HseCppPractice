@@ -1,0 +1,5 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\Shurka\Desktop\cpp\day2\ConsoleApplication7\ConsoleApplication7.cpp(8,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Shurka\Desktop\cpp\day2\ConsoleApplication7\ConsoleApplication7.cpp(28,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Shurka\Desktop\cpp\day2\ConsoleApplication7\ConsoleApplication7.cpp(37,23): warning C4018:  <: несоответствие типов со знаком и без знака
+  ConsoleApplication7.vcxproj -> C:\Users\Shurka\Desktop\cpp\day2\ConsoleApplication7\Debug\ConsoleApplication7.exe

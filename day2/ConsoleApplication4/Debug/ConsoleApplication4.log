@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\Shurka\Desktop\cpp\day2\ConsoleApplication4\ConsoleApplication4.cpp(25,7): warning C4101:  array: неиспользованная локальная переменная
+  ConsoleApplication4.vcxproj -> C:\Users\Shurka\Desktop\cpp\day2\ConsoleApplication4\Debug\ConsoleApplication4.exe

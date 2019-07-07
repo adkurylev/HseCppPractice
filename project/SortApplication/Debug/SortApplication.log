@@ -1,0 +1,7 @@
+﻿  SortApplication.cpp
+C:\Users\Shurka\Desktop\cpp\project\SortApplication\SortApplication.cpp(79,26): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Shurka\Desktop\cpp\project\SortApplication\SortApplication.cpp(108,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Shurka\Desktop\cpp\project\SortApplication\SortApplication.cpp(132,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Shurka\Desktop\cpp\project\SortApplication\SortApplication.cpp(180,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Shurka\Desktop\cpp\project\SortApplication\SortApplication.cpp(204,23): warning C4018:  <: несоответствие типов со знаком и без знака
+  SortApplication.vcxproj -> C:\Users\Shurka\Desktop\cpp\project\SortApplication\Debug\SortApplication.exe

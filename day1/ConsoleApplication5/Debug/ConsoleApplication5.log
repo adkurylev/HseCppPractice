@@ -1,0 +1,5 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\Shurka\Desktop\cpp\day1\ConsoleApplication5\ConsoleApplication5.cpp(21,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Shurka\Desktop\cpp\day1\ConsoleApplication5\ConsoleApplication5.cpp(26,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Shurka\Desktop\cpp\day1\ConsoleApplication5\ConsoleApplication5.cpp(28,35): warning C4018:  <: несоответствие типов со знаком и без знака
+  ConsoleApplication5.vcxproj -> C:\Users\Shurka\Desktop\cpp\day1\ConsoleApplication5\Debug\ConsoleApplication5.exe
